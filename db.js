@@ -1,6 +1,6 @@
 "use strict";
 
-/** Database setup for goaltracker. */
+/** Database setup for GoalTracker. */
 
 const { Client } = require("pg");
 const { getDatabaseUri } = require("./config");
